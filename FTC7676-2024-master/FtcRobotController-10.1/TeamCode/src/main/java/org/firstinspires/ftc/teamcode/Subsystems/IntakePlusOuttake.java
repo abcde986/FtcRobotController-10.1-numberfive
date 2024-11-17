@@ -5,7 +5,7 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.HardwareMap;
 import com.qualcomm.robotcore.hardware.Servo;
 
-/** public class IntakePlusOuttake extends SubsystemBase {
+public class IntakePlusOuttake extends SubsystemBase {
 
     public Servo loadShooter5000 = null;
 
@@ -23,4 +23,3 @@ import com.qualcomm.robotcore.hardware.Servo;
     }
 }
 
- */
