@@ -32,7 +32,7 @@ import org.firstinspires.ftc.teamcode.Subsystems.LowerArm;
 
         private HighArm HighArm;
 
-        private LowerArm LowerArm
+        private LowerArm LowerArm;
 
 
         @Override
