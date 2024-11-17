@@ -1,4 +1,4 @@
-package org.firstinspires.ftc.teamcode.messages;
+/** package org.firstinspires.ftc.teamcode.messages;
 
 import com.acmerobotics.roadrunner.ftc.PositionVelocityPair;
 
@@ -27,4 +27,4 @@ public final class MecanumLocalizerInputsMessage {
             this.roll = angles.getRoll(AngleUnit.RADIANS);
         }
     }
-}
+} */
